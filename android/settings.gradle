@@ -1,0 +1,3 @@
+rootProject.name = 'mapa_mail_4905'
+
+include ':app'
